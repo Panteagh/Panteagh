@@ -53,5 +53,5 @@ I'm a junior front-end developer building beautiful and user-friendly websites. 
 
 ## 📫 ways of communication
 
-- **LinkedIn**: https://www.linkedin.com/in/pantea-ghaffari-a4215125b? 
+- **LinkedIn**: https://www.linkedin.com/in/pantea-ghaffari-a4215125b 
 - **Email**: panteagh.03@gmail.com
