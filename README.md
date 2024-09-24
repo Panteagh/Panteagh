@@ -24,5 +24,5 @@ I'm a junior front-end developer building beautiful and user-friendly websites. 
 - Build personal projects that can contribute to the developer community.
 
 ## 📫 ways of communication
-- **LinkedIn**: https://www.linkedin.com/in/pantea-ghaffari-a4215125b
+- **LinkedIn**: www.linkedin.com/in/pantea-ghaffari
 - **Email**: panteagh.03@gmail.com
