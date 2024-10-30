@@ -7,21 +7,13 @@
 I'm a junior front-end developer building beautiful and user-friendly websites. My main focus is on creating creative and optimized user experiences that both users and search engines enjoy.
 
 ## 🛠️ skills and technologies
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-
-- **HTML5 & CSS3**: Complete mastery of HTML5 and CSS3 to create modern and responsive structures.
-- **JavaScript (ES6+)**: Proficiency in writing JavaScript code with a focus on performance and readability.
-- **Responsive Design**: experience in designing responsive websites using modern techniques such as Flexbox and CSS Grid.
-- **Version Control**: Mastery of Git and GitHub for code management and collaboration in team projects.
-- **UI/UX Design**: Getting to know the principles of UI/UX design and using tools such as Figma and Adobe XD.
-
-
-## 🎯 My goals
-
-- Learning and updating skills in new front-end areas such as TypeScript.
-- Participation in open source projects and cooperation with other developers.
-- Improve UI/UX design skills and master more design tools.
-- Build personal projects that can contribute to the developer community.
 
 ## 📫 ways of communication
 - **LinkedIn**: www.linkedin.com/in/panteaGhaffari
