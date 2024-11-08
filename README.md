@@ -1,4 +1,4 @@
-# 👋 Hello! I am Panthea
+# 👋 Hello! I am Pantea
 
 
 
